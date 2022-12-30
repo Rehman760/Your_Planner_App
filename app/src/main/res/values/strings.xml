@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Plan Your Future Here</string>
+    <string-array name="Plan">
+        <item>Your 1st task</item>
+        <item>Your 2nd task</item>
+        <item>Your 3rd task</item>
+    </string-array>
+</resources>
